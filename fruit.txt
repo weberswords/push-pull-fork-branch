@@ -1,4 +1,5 @@
 apple
 banana
 cantaloupe
+dried cherries
 dates
