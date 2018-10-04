@@ -3,3 +3,4 @@ banana
 cantaloupe
 dried cherries
 dates
+melon
